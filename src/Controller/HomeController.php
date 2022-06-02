@@ -20,6 +20,7 @@ use Cake\Http\Exception\NotFoundException;
 use Cake\View\Exception\MissingTemplateException;
 use Cake\Datasource\ConnectionManager;
 
+
 /**
  * Static content controller
  *
